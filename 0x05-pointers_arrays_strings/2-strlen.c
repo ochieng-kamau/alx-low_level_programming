@@ -8,13 +8,12 @@
 
 int _strlen(char *s)
 {
-	int a;
+	int a = 0;
 
-	for (a = 0; s[i] != '\0'; ++a)
+	for (; *s != '\0'; s++)
 	{
-		continue;
+		a++;
 	}
-	printf("Length of the string: %d", a);
 
-	return (0);
+	return (a);
 }
