@@ -3,7 +3,7 @@
 
 /**
  * main - Program that prints a string 
- * 	  using write
+ *	 using write
  * Return: 1 to stderr
  */
 int main(void)
