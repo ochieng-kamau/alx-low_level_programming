@@ -1,1 +1,1 @@
-This segment covers dynamic libraries.
+This segment covers creation of dynamic libraries
